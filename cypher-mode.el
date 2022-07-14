@@ -84,7 +84,7 @@
   :group 'cypher-faces)
 
 (defface cypher-variable-face
-  '((t :foreground "grey85"))
+  '((t :foreground "grey65"))
   "Face for vars."
   :group 'cypher-faces)
 
